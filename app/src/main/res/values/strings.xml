@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppPirinolaActivity</string>
+    <string name="button_jugar">Jugar</string>
+    <string name="txt_inicio">JUEGO DE LA PIRINOLA</string>
+</resources>
